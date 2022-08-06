@@ -1,0 +1,5 @@
+main: gg.gateway.ghostcommands.GhostCommands
+author: MFN
+name: ${project.artifactId}
+version: ${project.version}
+api-version: 1.13
